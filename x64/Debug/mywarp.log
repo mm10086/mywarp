@@ -1,0 +1,49 @@
+﻿  homo.cpp
+d:\03date\vs2017\mywarp\mywarp\mywarp.h(155): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+d:\03date\vs2017\mywarp\mywarp\homo.h(77): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\03date\vs2017\mywarp\mywarp\homo.h(100): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\03date\vs2017\mywarp\mywarp\homo.h(125): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\03date\vs2017\mywarp\mywarp\homo.h(227): warning C4244: “初始化”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\03date\vs2017\mywarp\mywarp\homo.h(228): warning C4244: “初始化”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\03date\vs2017\mywarp\mywarp\homo.h(243): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\03date\vs2017\mywarp\mywarp\homo.h(247): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\03date\vs2017\mywarp\mywarp\homo.h(251): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\03date\vs2017\mywarp\mywarp\homo.h(260): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\03date\vs2017\mywarp\mywarp\homo.h(282): warning C4244: “参数”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+d:\03date\vs2017\mywarp\mywarp\homo.h(273): warning C4101: “indexEdge”: 未引用的局部变量
+d:\03date\vs2017\mywarp\mywarp\homo.h(274): warning C4101: “indexPoint”: 未引用的局部变量
+d:\03date\vs2017\mywarp\mywarp\homo.cpp(16): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\03date\vs2017\mywarp\mywarp\homo.cpp(26): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+  mywarp.vcxproj -> D:\03Date\vs2017\mywarp\x64\Debug\mywarp.exe
